@@ -1,0 +1,12 @@
+# Maven build output
+/target/
+
+# IDE folders
+/.idea/
+/.vscode/
+
+# Logs
+*.log
+
+# Env files
+.env
