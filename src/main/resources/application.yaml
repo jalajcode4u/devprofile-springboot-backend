@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/devprofile
     username: root
-    password: root123
+    password: YOUR____PASSWORD
 
   jpa:
     hibernate:
