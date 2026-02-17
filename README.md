@@ -52,5 +52,5 @@ src/main/java/com/example/devprofile
 {
   "name": "Jalaj",
   "email": "jalaj@gmail.com",
-  "password": "123456"
+  "password": "******"
 }
